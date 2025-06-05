@@ -1,0 +1,97 @@
+Sir, please convey my best wishes to your brother and his partner on their wedding day. May their bond grow stronger with each passing day. 💕
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Favorite Movie Reviews</title>
+</head>
+<body>
+
+  <h1>🎬 My Favorite Movie Reviews</h1>
+  <p>Welcome to my simple website where I review movies I love!</p>
+
+  <hr>
+
+  <h2 id="english">🧙 English Movies</h2>
+  <h3>1. Harry Potter</h3>
+  <p>A magical fantasy series following a young wizard's journey. My favorite part is Hogwarts and the final battle.</p>
+
+  <h3>2. Beauty and the Beast</h3>
+  <p>A classic love story with beautiful songs and a deep message about kindness and true love.</p>
+
+  <h3>3. Green Mile</h3>
+  <p>A powerful emotional movie about justice, miracles, and humanity in a prison setting.</p>
+
+  <h3>4. Hidden Figures</h3>
+  <p>A true story of brilliant women behind NASA's space mission. Inspiring and educational.</p>
+
+  <hr>
+
+  <h2 id="tamil">🎥 Tamil Movies</h2>
+
+  <h3>Top 2 Vijay Movies</h3>
+  <ol>
+    <li>Thuppakki – Action-packed and patriotic!</li>
+    <li>Mersal – Mass scenes and strong message about healthcare.</li>
+  </ol>
+
+  <h3>Top 3 Ajith Movies</h3>
+  <ul>
+    <li>Vedalam – Great brother-sister emotion and fight scenes</li>
+    <li>Veeram – Classic village action drama</li>
+    <li>Nerkonda Paarvai – A must-watch for social awareness</li>
+  </ul>
+
+  <hr>
+
+  <h2>🌟 Overall Movie Ratings</h2>
+  <table border="1" cellpadding="10">
+    <tr>
+      <th>Movie Name</th>
+      <th>Language</th>
+      <th>Rating (out of 5)</th>
+    </tr>
+    <tr>
+      <td>Harry Potter</td>
+      <td>English</td>
+      <td>5 ⭐</td>
+    </tr>
+    <tr>
+      <td>Green Mile</td>
+      <td>English</td>
+      <td>5 ⭐</td>
+    </tr>
+    <tr>
+      <td>Thuppakki</td>
+      <td>Tamil</td>
+      <td>4.8 ⭐</td>
+    </tr>
+    <tr>
+      <td>Vedalam</td>
+      <td>Tamil</td>
+      <td>4.7 ⭐</td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <h2>📬 Contact Me</h2>
+  <form>
+    <label>Your Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Your Email:</label><br>
+    <input type="email"><br><br>
+
+    <label>Which movie do you like the most?</label><br>
+    <textarea rows="4" cols="40"></textarea><br><br>
+
+    <button type="submit">Send</button>
+  </form>
+
+  <hr>
+
+  <p><a href="#english">Back to English Movies</a> | <a href="#tamil">Back to Tamil Movies</a></p>
+  <p>Made with ❤️ by a movie lover</p>
+
+</body>
+</html>
